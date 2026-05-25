@@ -65,14 +65,6 @@ Performed SQL queries for:
 
 ---
 
-
----
-
-## Dashboard Preview
-(Add dashboard screenshot here)
-
----
-
 ## Conclusion
 This project demonstrates practical skills in:
 - Data Cleaning

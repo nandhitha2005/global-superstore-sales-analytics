@@ -65,17 +65,6 @@ Performed SQL queries for:
 
 ---
 
-## Project Structure
-```text
-Ecommerce-Sales-Analytics/
-│
-├── Dataset/
-├── SQL Queries/
-├── PowerBI Dashboard/
-├── Python Cleaning/
-├── Screenshots/
-└── README.md
-```
 
 ---
 
